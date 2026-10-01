@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matthewbottaro5.github.io/studio-shop/sitemap.xml
